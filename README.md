@@ -1,2 +1,2 @@
 # CMSC-204
-labs and projects for cmsc 204- ignore me creating a repo for every project for cmsc 203...
+labs and projects for cmsc 204-
